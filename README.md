@@ -7,7 +7,7 @@ It demonstrates **database design, querying, and analysis** using SQL with real-
 
 https://www.youtube.com/watch?v=UW776lOWPcI
 
-![ER Diagram](images/er_diagram.png)
+![ER Diagram](i/chart.png)
 
 ---
 
