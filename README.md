@@ -5,6 +5,8 @@
 This project is a **relational database** inspired by YouTube, tracking **users, creators, videos, and comments**.  
 It demonstrates **database design, querying, and analysis** using SQL with real-world examples.
 
+https://www.youtube.com/watch?v=UW776lOWPcI
+
 ![ER Diagram](images/er_diagram.png)
 
 ---
